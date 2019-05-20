@@ -1,6 +1,6 @@
 ---
 Title: Redis Labs Kubernetes Architecture – Overview
-description: 
+description:
 weight: 30
 alwaysopen: false
 categories: ["RS"]

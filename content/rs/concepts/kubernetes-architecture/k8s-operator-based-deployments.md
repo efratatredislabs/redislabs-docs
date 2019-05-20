@@ -1,6 +1,6 @@
 ---
 Title: Redis Enterprise K8s Operator-based deployments – Overview
-description: 
+description:
 weight: 40
 alwaysopen: false
 categories: ["RS"]

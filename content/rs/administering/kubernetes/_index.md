@@ -1,6 +1,6 @@
 ---
 Title: Kubernetes
-description: 
+description:
 weight: 40
 alwaysopen: false
 categories: ["RS"]

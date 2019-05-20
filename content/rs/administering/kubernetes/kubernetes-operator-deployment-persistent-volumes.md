@@ -1,6 +1,6 @@
 ---
 Title: Kubernetes Operator Deployment – Persistent Volumes
-description: 
+description:
 weight: 40
 alwaysopen: false
 categories: ["RS"]
@@ -14,7 +14,7 @@ spec should include a *persistentSpec* section, in the
       persistentSpec:
        enabled: true
        storageClassName: "standard"
-       volumeSize: "23Gi” #optional 
+       volumeSize: "23Gi” #optional
 
 Persistence storage is a requirement for this deployment type.
 
@@ -67,7 +67,7 @@ Example of the redisEnterpriseNodeResources definition:
     redisEnterpriseNodeResources:
       limits:
         cpu: “4000m”
-        memory: 4Gi    
+        memory: 4Gi
       requests:
         cpu: “4000m”
         memory: 4Gi

@@ -1,6 +1,6 @@
 ---
 Title: Getting Started with Redis Enterprise Software using Kubernetes
-description: 
+description:
 weight: $weight
 alwaysopen: false
 categories: ["RS"]
